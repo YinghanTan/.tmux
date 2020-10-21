@@ -1,0 +1,7 @@
+pane	minterest	0	:Credit Assessment	0	:	0	:/home/yinghantan/projects/credit-assessment	1	nvim	:nvim
+pane	minterest	1	:Vim Wiki	0	:-	0	:/home/yinghantan/vimwiki	1	nvim	:nvim
+pane	minterest	2	:nvim	1	:*	0	:/home/yinghantan	1	nvim	:nvim .tmux.conf
+window	minterest	0	0	:	c63e,170x37,0,0,1
+window	minterest	1	0	:-	c63f,170x37,0,0,2
+window	minterest	2	1	:*	c641,170x37,0,0,4
+state	minterest	

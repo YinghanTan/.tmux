@@ -1,0 +1,3 @@
+pane	minterest	0	:Credit Assessment	1	:*	0	:/home/yinghantan/projects/credit-assessment	1	nvim	:nvim
+window	minterest	0	1	:*	c63e,170x37,0,0,1
+state	minterest	

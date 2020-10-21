@@ -1,0 +1,7 @@
+pane	minterest	0	:Credit Assessment	0	:#-	0	:/home/yinghantan/projects/credit-assessment	1	nvim	:nvim -S
+pane	minterest	1	:Vim Wiki	1	:*	0	:/home/yinghantan/vimwiki	1	nvim	:nvim -S
+pane	qiannow	0	:bash	1	:*	0	:/home/yinghantan/projects	1	bash	:
+window	minterest	0	0	:#-	c63e,170x37,0,0,1
+window	minterest	1	1	:*	c63f,170x37,0,0,2
+window	qiannow	0	1	:*	c641,170x37,0,0,4
+state	minterest	
